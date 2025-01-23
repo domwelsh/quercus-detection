@@ -1,0 +1,13 @@
+rasterio
+earthengine-api
+google-cloud-storage
+google-auth
+google-auth-oauthlib
+pandas
+geopandas
+torch
+numpy
+matplotlib
+joblib
+shapely
+scikit-learn
